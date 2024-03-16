@@ -1,0 +1,25 @@
+/* Write your code here. */
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.button {
+  background-color: transparent;
+  height: 40px;
+  width: 40px;
+  border: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.image {
+  height: 40px;
+  width: 40px;
+  opacity: 0.5;
+}
+.original-img {
+  height: 40px;
+  width: 40px;
+}
